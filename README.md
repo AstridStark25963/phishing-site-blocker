@@ -16,7 +16,7 @@
 
 当尝试访问黑名单中的网站时，页面将展示为如下样式：
 
-![效果展示](https://cdn.jsdelivr.net/gh/AstridStark25963/ImageHosting@main/image/Snipaste_2026-02-18_12-38-23.png)
+![效果展示](https://cdn.jsdelivr.net/gh/AstridStark25963/ImageHosting@main/image/image-20260218124054982.png)
 
 ## 🛠️ 安装说明
 
