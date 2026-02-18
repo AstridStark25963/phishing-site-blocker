@@ -27,13 +27,13 @@
 
 ### 安装链接
 点击下方链接进入 Greasy Fork 页面进行一键安装：
-👉 **[安装 Gemini Chat Exporter](https://greasyfork.org/scripts/566616-phishing-site-blocker)**
+👉 **[安装 Phishing Site Blocker](https://greasyfork.org/scripts/566616-phishing-site-blocker)**
 
 ## ⚙️ 配置指南
 
 ### 添加新的屏蔽网站
 
-脚本的设计非常模块化。要添加新的“恶心”网站，只需编辑脚本代码顶部的 `BLOCKED_DOMAINS` 数组：
+脚本的设计非常模块化。要添加新的网站，只需编辑脚本代码顶部的 `BLOCKED_DOMAINS` 数组：
 
 ```javascript
 const BLOCKED_DOMAINS = [
