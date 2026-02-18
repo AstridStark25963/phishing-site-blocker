@@ -11,8 +11,8 @@
 // @match                *://*/*
 // @run-at               document-start
 // @grant                none
-// @downloadURL          https://raw.githubusercontent.com/AstridStark25963/phishing-site-blocker/main/phishing-site-blocker.user.js
-// @updateURL            https://raw.githubusercontent.com/AstridStark25963/phishing-site-blocker/main/phishing-site-blocker.user.js
+// @downloadURL          https://raw.githubusercontent.com/AstridStark25963/phishing-site-blocker/main/src/phishing-site-blocker.user.js
+// @updateURL            https://raw.githubusercontent.com/AstridStark25963/phishing-site-blocker/main/src/phishing-site-blocker.user.js
 // ==/UserScript==
 
 (function() {
