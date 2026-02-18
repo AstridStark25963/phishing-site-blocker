@@ -19,6 +19,7 @@
     'use strict';
 
     const BLOCKED_DOMAINS = [
+        // Fake Z-Library Websites
         "z-lib.ai",
         "z-lib.cv",
         "z-lib.id",
