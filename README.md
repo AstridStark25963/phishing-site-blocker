@@ -1,5 +1,8 @@
 # Phishing Site Blocker
 
+![License](https://img.shields.io/github/license/AstridStark25963/phishing-site-blocker)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 一个轻量、高效的 UserScript，专为拦截恶意的假冒网站（钓鱼网站）设计。
 
 它利用浏览器的 `document-start` 机制，在网页加载的第一毫秒进行**核弹级拦截**，强制停止恶意资源的加载，并显示醒目的全屏红色双语警告，保护你的浏览安全。
